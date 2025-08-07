@@ -1,0 +1,20 @@
+# Environment variables
+.env
+.env.local
+config.local.js
+
+# Node modules (if you add any later)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

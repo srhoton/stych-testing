@@ -1,0 +1,23 @@
+{
+  "name": "stytch-oauth-demo",
+  "version": "1.0.0",
+  "description": "Simple JavaScript app for Stytch OAuth authentication with Google",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "stytch",
+    "oauth",
+    "authentication",
+    "google"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@stytch/vanilla-js": "^4.0.0"
+  },
+  "devDependencies": {}
+}
